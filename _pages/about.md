@@ -106,16 +106,17 @@ redirect_from:
 </body>
 </html>
 
-I am an undergraduate (2022-2026) at Xidian University, <em> focusing on Robot Learning.</em>
-I work at [MMLab@HKU](https://mmlab.hk/) with [Prof. Xihui Liu](https://xh-liu.github.io/).
-I work at [MVIG@SJTU](https://www.mvig.org/index.html) with [Prof. Lixin Yang](https://lixiny.github.io/) and [Prof. Cewu Lu](https://www.mvig.org/index.html).
+I am an undergraduate (2024-2028) at Tsinghua University, <em> focusing on Robot Learning.</em>
+<!-- I work at [MMLab@HKU](https://mmlab.hk/) with [Prof. Xihui Liu](https://xh-liu.github.io/).
+I work at [MVIG@SJTU](https://www.mvig.org/index.html) with [Prof. Lixin Yang](https://lixiny.github.io/) and [Prof. Cewu Lu](https://www.mvig.org/index.html). -->
 
 News
 ---------------
-- *[Dense Policy](https://selen-suyue.github.io/DspNet) is accepted in ICCV 2025 &#128293;*
+*[Connectome-Based Modelling Reveals Orientation Maps in the Drosophila Optic Lobe](https://neurips.cc/virtual/2025/poster/115371) is accepted in NeurIPS 2025 as a poster&#128293;*
+<!-- - *[Dense Policy](https://selen-suyue.github.io/DspNet) is accepted in ICCV 2025 &#128293;*
 - *[MBA](https://selen-suyue.github.io/MBApage) is accepted in IEEE RA-L 2025 &#128293;*
 - *Our work [Advdisplay]() was accepted at AAAI 2025 &#128293;*
-- *In charge of [Microsoft Club](https://github.com/MSC-XDU). Feel free to reach out if you'd like to join.*
+- *In charge of [Microsoft Club](https://github.com/MSC-XDU). Feel free to reach out if you'd like to join.* -->
 
 Experience
 --------------
@@ -123,13 +124,13 @@ Experience
   <div class="experience-card">
       <img src="images/HKU.png" alt="HKU logo" class="experience-logo">
       <div class="experience-info">
-          <strong>The University of Hong Kong</strong><br>
-          June 2025 - Now<br>
-          Research Intern at <a href="https://mmlab.hk/"><em>MMLab@HKU</em></a> 
+          <strong>Tsinghua University</strong><br>
+          Sept. 2024 - Now<br>
+          Research Intern at <a href="https://mmlab.hk/"><em>TBD</em></a> 
       </div>
   </div>
 
-  <div class="experience-card">
+  <!-- <div class="experience-card">
       <img src="images/astri.png" alt="astri logo" class="experience-logo">
       <div class="experience-info">
           <strong>Astribot Inc.</strong><br>
@@ -156,7 +157,7 @@ Experience
           B.E at AI College, RA at <a href="https://web.xidian.edu.cn/mggong/"><em>OMEGA</em></a> Lab
       </div>
   </div>
-</div>
+</div> -->
 
 Publications
 --------------
@@ -166,19 +167,19 @@ Publications
       <source src="https://github.com/Selen-Suyue/DSPv2Net/raw/main/video/videoshow.mp4" type="video/mp4">
     </video>
     <div>
-        <strong>DSPv2: Improved Dense Policy for Effective and Generalizable Whole-body Mobile Manipulation</strong><br>
+        <strong>TBD: TBD TBD TBD for TBD and TBD TBD-TBD TBD TBD</strong><br>
         <i style="font-size: 13px;">
-            <a href="https://selen-suyue.github.io" target="_blank"><strong>Yue Su</strong></a>, 
-            <a href="https://lin-shan.com/" target="_blank">Chubin Zhang</a>, 
-            <a href="https://ch3cook-fdu.github.io/" target="_blank">Sijin Chen</a>,
-            <a href="" target="_blank">Liufan Tan</a>, <br>
-            <a href="https://andytang15.github.io/" target="_blank">Yansong Tang</a>,
-            <a href="https://scholar.google.com/citations?user=mt5mvZ8AAAAJ&hl=en" target="_blank">Jianan Wang</a>,
-            <a href="https://xh-liu.github.io/" target="_blank">Xihui Liu</a>&dagger;
+            <a href="https://selen-suyue.github.io" target="_blank"><strong>TBD</strong></a>, 
+            <a href="https://lin-shan.com/" target="_blank">TBD</a>, 
+            <a href="https://ch3cook-fdu.github.io/" target="_blank">TBD</a>,
+            <a href="" target="_blank">TBD</a>, <br>
+            <a href="https://andytang15.github.io/" target="_blank">TBD</a>,
+            <a href="https://scholar.google.com/citations?user=mt5mvZ8AAAAJ&hl=en" target="_blank">TBD</a>,
+            <a href="https://xh-liu.github.io/" target="_blank">TBD</a>&dagger;
         </i><br>
-        Improved Dense Policy for Whole-body Mobile Manipulation, with effective perception, generalizable manipulation and coherent actions.
+        TBD TBD TBD for TBD-TBD TBD TBD, TBD TBD TBD, TBD TBD TBD TBD TBD.
         <br>
-        <b><i style="color:#83a1c7;">ArXiv Preprint &nbsp;</i></b>
+        <b><i style="color:#83a1c7;">TBD Preprint &nbsp;</i></b>
         <a href="https://arxiv.org/abs/2509.16063"><em>[arXiv]</em></a>
         <a href="https://github.com/Selen-Suyue/DSPv2"><em>[code]</em></a>
         <a href="https://selen-suyue.github.io/DSPv2Net/"><em>[website]</em></a>
@@ -186,7 +187,7 @@ Publications
   </div>
 </div>
 
-<div class="publication-card featured">
+<!-- <div class="publication-card featured">
  <div style="display: flex; align-items: center;">
     <video width="200" height="120" style="margin-right: 20px; border-radius: 8px;" autoplay loop muted playsinline>
       <source src="images/flower_dsp.mp4" type="video/mp4">
@@ -355,5 +356,5 @@ with the abilities of image genration and language description in one model.<br>
 </div>
 
 
-
+ -->
 

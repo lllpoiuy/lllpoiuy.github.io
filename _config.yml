@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Selen Su / Personal Homepage"
+title                    : "Shenghan Lin / linshey"
 title_separator          : "-"
-name                     : Selen
+name                     : Shenghan Lin
 description              : &description "personal description"
-url                      : https://selen-suyue.github.io
+url                      : https://lllpoiuy-suyue.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Selen-Suyue/Selen"
+repository               : "lllpoiuy/lllpoiuy-suyue.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,17 +22,17 @@ repository               : "Selen-Suyue/Selen"
 author:
   # Biographic information
   avatar           : "favicon.ico"
-  name             : "Yue Su 苏悦"
+  name             : "Shenghan Lin 林圣涵"
   pronouns         : "He/Him"  
-  bio              : "好事多磨"
+  bio              : "Get your hands dirty."
   location         : 
   employer         : 
   uri              : 
-  email            : "s3702681@gmail.com" 
+  email            : "86179118@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : https://scholar.google.com/citations?view_op=list_works&hl=en&user=TUVYCcIAAAAJ
+  googlescholar    : https://scholar.google.com/
   impactstory      : # URL
   orcid            : 
   semantic         : # URL
@@ -43,17 +43,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Selen-Suyue"
+  github           : "lllpoiuy"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  linkedin         : selen-su-008867334
-  bilibili         : https://space.bilibili.com/160180005?spm_id_from=333.1007.0.0
-  twitter          : Selen7005717917
-  youtube          : https://www.youtube.com/@SelenSu-j6h
-  zhihu            : https://www.zhihu.com/people/ancientone-58
-  XiaoHongShu      : https://www.xiaohongshu.com/user/profile/62d3ed3c0000000002000fed
+  bilibili         : https://space.bilibili.com/641397787
+  zhihu            : https://www.zhihu.com/people/linshey
+  XiaoHongShu      : tobedone
 
 
 # Site Settings
