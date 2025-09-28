@@ -12,9 +12,9 @@ title                    : "Shenghan Lin / linshey"
 title_separator          : "-"
 name                     : Shenghan Lin
 description              : &description "personal description"
-url                      : https://lllpoiuy-suyue.github.io
+url                      : https://lllpoiuy.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lllpoiuy/lllpoiuy-suyue.github.io"
+repository               : "lllpoiuy/lllpoiuy.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
